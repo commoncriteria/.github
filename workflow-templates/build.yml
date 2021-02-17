@@ -38,7 +38,7 @@ jobs:
         uses: actions/checkout@v2
         with:
           repository: commoncriteria/ci-scripts
-          ref: github-actions
+          ref: master
           path: ci-scripts
 
       - name: Make CI Scripts Executable
