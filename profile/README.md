@@ -1,4 +1,5 @@
 ## Hi there 👋
+[New Dashboard](readme.adoc)
 
 ## Here is the Dashboard: 
 
