@@ -1,6 +1,6 @@
 = Dashboard v2.0
 
-link:README.md[Dashboard v1.0]
+link:https://github.com/commoncriteria/.github/blob/master/profile/README.md[Dashboard v1.0]
 
 [cols="1,1,1,1,1,1"]
 |===
