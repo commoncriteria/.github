@@ -2,10 +2,11 @@
 
 link:https://github.com/commoncriteria/.github/blob/master/profile/README.md[Dashboard v1.0]
 
-[cols="1,1,1,1,1,1"]
+[cols="1,1,1,1,1,1,1"]
 |===
-6+|*Application*
-| Master
+7+|*Application*
+| master
+a| http://commoncriteria.github.io/application/master/application-release.html[📄]
 a|[link=https://github.com/commoncriteria/application/blob/gh-pages/master/ValidationReport.txt] 
 image::https://raw.githubusercontent.com/commoncriteria/application/gh-pages/master/validation.svg[validation]
 a|[link=https://github.com/commoncriteria/application/blob/gh-pages/master/SanityChecksOutput.md]
@@ -16,6 +17,7 @@ a|[link=https://github.com/commoncriteria/application/blob/gh-pages/master/TDVal
 image::https://raw.githubusercontent.com/commoncriteria/application/gh-pages/master/tds.svg[TDs]
 a|image::https://raw.githubusercontent.com/commoncriteria/application/gh-pages/master/transforms.svg[transforms,150]
 | release-1.4
+a| http://commoncriteria.github.io/application/release-1.4/application-release.html[📄]
 a|[link=https://github.com/commoncriteria/application/blob/gh-pages/release-1.4/ValidationReport.txt] 
 image::https://raw.githubusercontent.com/commoncriteria/application/gh-pages/release-1.4/validation.svg[validation]
 a|[link=https://github.com/commoncriteria/application/blob/gh-pages/release-1.4/SanityChecksOutput.md]
@@ -26,8 +28,9 @@ a|[link=https://github.com/commoncriteria/application/blob/gh-pages/release-1.4/
 image::https://raw.githubusercontent.com/commoncriteria/application/gh-pages/release-1.4/tds.svg[TDs]
 a|image::https://raw.githubusercontent.com/commoncriteria/application/gh-pages/release-1.4/transforms.svg[transforms,150]
 
-6+|Bluetooth
-| Master
+7+|Bluetooth
+| master
+| http://commoncriteria.github.io/bluetooth/master/bluetooth-release.html[📄]
 a|[link=https://github.com/commoncriteria/bluetooth/blob/gh-pages/master/ValidationReport.txt] 
 image::https://raw.githubusercontent.com/commoncriteria/bluetooth/gh-pages/master/validation.svg[validation]
 a|[link=https://github.com/commoncriteria/bluetooth/blob/gh-pages/master/SanityChecksOutput.md]
@@ -38,6 +41,7 @@ a|[link=https://github.com/commoncriteria/bluetooth/blob/gh-pages/master/TDValid
 image::https://raw.githubusercontent.com/commoncriteria/bluetooth/gh-pages/master/tds.svg[TDs]
 a|image::https://raw.githubusercontent.com/commoncriteria/bluetooth/gh-pages/master/transforms.svg[transforms,150]
 | v1.0
+| http://commoncriteria.github.io/bluetooth/v1.0/bluetooth-release.html[📄]
 a|[link=https://github.com/commoncriteria/bluetooth/blob/gh-pages/v1.0/ValidationReport.txt] 
 image::https://raw.githubusercontent.com/commoncriteria/bluetooth/gh-pages/v1.0/validation.svg[validation]
 a|[link=https://github.com/commoncriteria/bluetooth/blob/gh-pages/v1.0/SanityChecksOutput.md]
@@ -47,8 +51,9 @@ image::https://raw.githubusercontent.com/commoncriteria/bluetooth/gh-pages/v1.0/
 a|[link=https://github.com/commoncriteria/bluetooth/blob/gh-pages/v1.0/TDValidationReport.txt]
 image::https://raw.githubusercontent.com/commoncriteria/bluetooth/gh-pages/v1.0/tds.svg[TDs]
 a|image::https://raw.githubusercontent.com/commoncriteria/bluetooth/gh-pages/v1.0/transforms.svg[transforms,150]
-6+|General Purpose Operating Systems
-| Master
+7+|General Purpose Operating Systems
+| master
+| http://commoncriteria.github.io/operatingsystem/master/operatingsystem-release.html[📄]
 a|[link=https://github.com/commoncriteria/operatingsystem/blob/gh-pages/master/ValidationReport.txt] 
 image::https://raw.githubusercontent.com/commoncriteria/operatingsystem/gh-pages/master/validation.svg[validation]
 a|[link=https://github.com/commoncriteria/operatingsystem/blob/gh-pages/master/SanityChecksOutput.md]
@@ -59,6 +64,7 @@ a|[link=https://github.com/commoncriteria/operatingsystem/blob/gh-pages/master/T
 image::https://raw.githubusercontent.com/commoncriteria/operatingsystem/gh-pages/master/tds.svg[TDs]
 a|image::https://raw.githubusercontent.com/commoncriteria/operatingsystem/gh-pages/master/transforms.svg[transforms,150]
 | release-4.3
+| http://commoncriteria.github.io/operatingsystem/release-4.3/operatingsystem-release.html[📄]
 a|[link=https://github.com/commoncriteria/operatingsystem/blob/gh-pages/release-4.3/ValidationReport.txt] 
 image::https://raw.githubusercontent.com/commoncriteria/operatingsystem/gh-pages/release-4.3/validation.svg[validation]
 a|[link=https://github.com/commoncriteria/operatingsystem/blob/gh-pages/release-4.3/SanityChecksOutput.md]
@@ -69,6 +75,7 @@ a|[link=https://github.com/commoncriteria/operatingsystem/blob/gh-pages/release-
 image::https://raw.githubusercontent.com/commoncriteria/operatingsystem/gh-pages/release-4.3/tds.svg[TDs]
 a|image::https://raw.githubusercontent.com/commoncriteria/operatingsystem/gh-pages/release-4.3/transforms.svg[transforms,150]
 | release-4.2.1
+a| http://commoncriteria.github.io/operatingsystem/release-4.2.1/operatingsystem-release.html[📄]
 a|[link=https://github.com/commoncriteria/operatingsystem/blob/gh-pages/release-4.2.1/ValidationReport.txt] 
 image::https://raw.githubusercontent.com/commoncriteria/operatingsystem/gh-pages/release-4.2.1/validation.svg[validation]
 a|[link=https://github.com/commoncriteria/operatingsystem/blob/gh-pages/release-4.2.1/SanityChecksOutput.md]
@@ -79,8 +86,9 @@ a|[link=https://github.com/commoncriteria/operatingsystem/blob/gh-pages/release-
 image::https://raw.githubusercontent.com/commoncriteria/operatingsystem/gh-pages/release-4.2.1/tds.svg[TDs]
 a|image::https://raw.githubusercontent.com/commoncriteria/operatingsystem/gh-pages/release-4.2.1/transforms.svg[transforms,150]
 
-6+|MACsec
-| Master
+7+|MACsec
+| master
+a| http://commoncriteria.github.io/MACsec/master/MACsec-release.html[📄]
 a|[link=https://github.com/commoncriteria/MACsec/blob/gh-pages/master/ValidationReport.txt] 
 image::https://raw.githubusercontent.com/commoncriteria/MACsec/gh-pages/master/validation.svg[validation]
 a|[link=https://github.com/commoncriteria/MACsec/blob/gh-pages/master/SanityChecksOutput.md]
@@ -91,8 +99,9 @@ a|[link=https://github.com/commoncriteria/MACsec/blob/gh-pages/master/TDValidati
 image::https://raw.githubusercontent.com/commoncriteria/MACsec/gh-pages/master/tds.svg[TDs]
 a|image::https://raw.githubusercontent.com/commoncriteria/MACsec/gh-pages/master/transforms.svg[transforms,150]
 
-6+|Mobile Device
-| Master
+7+|Mobile Device
+| master
+a| http://commoncriteria.github.io/mobile-device/master/mobile-device-release.html[📄]
 a|[link=https://github.com/commoncriteria/mobile-device/blob/gh-pages/master/ValidationReport.txt] 
 image::https://raw.githubusercontent.com/commoncriteria/mobile-device/gh-pages/master/validation.svg[validation]
 a|[link=https://github.com/commoncriteria/mobile-device/blob/gh-pages/master/SanityChecksOutput.md]
@@ -103,6 +112,7 @@ a|[link=https://github.com/commoncriteria/mobile-device/blob/gh-pages/master/TDV
 image::https://raw.githubusercontent.com/commoncriteria/mobile-device/gh-pages/master/tds.svg[TDs]
 a|image::https://raw.githubusercontent.com/commoncriteria/mobile-device/gh-pages/master/transforms.svg[transforms,150]
 | release-3.3
+a| http://commoncriteria.github.io/mobile-device/release-3.3/mobile-device-release.html[📄]
 a|[link=https://github.com/commoncriteria/mobile-device/blob/gh-pages/release-3.3/ValidationReport.txt] 
 image::https://raw.githubusercontent.com/commoncriteria/mobile-device/gh-pages/release-3.3/validation.svg[validation]
 a|[link=https://github.com/commoncriteria/mobile-device/blob/gh-pages/release-3.3/SanityChecksOutput.md]
@@ -113,8 +123,9 @@ a|[link=https://github.com/commoncriteria/mobile-device/blob/gh-pages/release-3.
 image::https://raw.githubusercontent.com/commoncriteria/mobile-device/gh-pages/release-3.3/tds.svg[TDs]
 a|image::https://raw.githubusercontent.com/commoncriteria/mobile-device/gh-pages/release-3.3/transforms.svg[transforms,150]
 
-6+|SSH
-a| https://github.com/commoncriteria/ssh[Master]
+7+|SSH
+a| https://github.com/commoncriteria/ssh[master]
+a| http://commoncriteria.github.io/ssh/master/ssh-release.html[📄]
 a|[link=https://github.com/commoncriteria/ssh/blob/gh-pages/master/ValidationReport.txt] 
 image::https://raw.githubusercontent.com/commoncriteria/ssh/gh-pages/master/validation.svg[validation]
 a|[link=https://github.com/commoncriteria/ssh/blob/gh-pages/master/SanityChecksOutput.md]
@@ -125,6 +136,7 @@ a|[link=https://github.com/commoncriteria/ssh/blob/gh-pages/master/TDValidationR
 image::https://raw.githubusercontent.com/commoncriteria/ssh/gh-pages/master/tds.svg[TDs]
 a|image::https://raw.githubusercontent.com/commoncriteria/ssh/gh-pages/master/transforms.svg[transforms,150]
 a| https://github.com/commoncriteria/ssh/tree/release-1.0[release-1.0]
+a| http://commoncriteria.github.io/release-1-0/ssh/ssh-release.html[📄]
 a|[link=https://github.com/commoncriteria/ssh/blob/gh-pages/release-1.0/ValidationReport.txt] 
 image::https://raw.githubusercontent.com/commoncriteria/ssh/gh-pages/release-1.0/validation.svg[validation]
 a|[link=https://github.com/commoncriteria/ssh/blob/gh-pages/release-1.0/SanityChecksOutput.md]
@@ -135,8 +147,9 @@ a|[link=https://github.com/commoncriteria/ssh/blob/gh-pages/release-1.0/TDValida
 image::https://raw.githubusercontent.com/commoncriteria/ssh/gh-pages/release-1.0/tds.svg[TDs]
 a|image::https://raw.githubusercontent.com/commoncriteria/ssh/gh-pages/release-1.0/transforms.svg[transforms,150]
 
-6+|TLS
-a| https://github.com/commoncriteria/tls[Master]
+7+|TLS
+a| https://github.com/commoncriteria/tls[master]
+a| http://commoncriteria.github.io/tls/master/tls-release.html[📄]
 a|[link=https://github.com/commoncriteria/tls/blob/gh-pages/master/ValidationReport.txt] 
 image::https://raw.githubusercontent.com/commoncriteria/tls/gh-pages/master/validation.svg[validation]
 a|[link=https://github.com/commoncriteria/tls/blob/gh-pages/master/SanityChecksOutput.md]
@@ -147,6 +160,7 @@ a|[link=https://github.com/commoncriteria/tls/blob/gh-pages/master/TDValidationR
 image::https://raw.githubusercontent.com/commoncriteria/tls/gh-pages/master/tds.svg[TDs]
 a|image::https://raw.githubusercontent.com/commoncriteria/tls/gh-pages/master/transforms.svg[transforms,150]
 a| https://github.com/commoncriteria/tls/tree/release-1.1[release-1.1]
+a| http://commoncriteria.github.io/tls/release-1.1/tls-release.html[📄]
 a|[link=https://github.com/commoncriteria/tls/blob/gh-pages/release-1.1/ValidationReport.txt] 
 image::https://raw.githubusercontent.com/commoncriteria/tls/gh-pages/release-1.1/validation.svg[validation]
 a|[link=https://github.com/commoncriteria/tls/blob/gh-pages/release-1.1/SanityChecksOutput.md]
@@ -157,8 +171,9 @@ a|[link=https://github.com/commoncriteria/tls/blob/gh-pages/release-1.1/TDValida
 image::https://raw.githubusercontent.com/commoncriteria/tls/gh-pages/release-1.1/tds.svg[TDs]
 a|image::https://raw.githubusercontent.com/commoncriteria/tls/gh-pages/release-1.1/transforms.svg[transforms,150]
 
-6+|WLAN Client
-| Master
+7+|WLAN Client
+| master
+a| http://commoncriteria.github.io/wlanclient/master/wlanclient-release.html[📄]
 a|[link=https://github.com/commoncriteria/wlanclient/blob/gh-pages/master/ValidationReport.txt] 
 image::https://raw.githubusercontent.com/commoncriteria/wlanclient/gh-pages/master/validation.svg[validation]
 a|[link=https://github.com/commoncriteria/wlanclient/blob/gh-pages/master/SanityChecksOutput.md]
@@ -169,6 +184,7 @@ a|[link=https://github.com/commoncriteria/wlanclient/blob/gh-pages/master/TDVali
 image::https://raw.githubusercontent.com/commoncriteria/wlanclient/gh-pages/master/tds.svg[TDs]
 a|image::https://raw.githubusercontent.com/commoncriteria/wlanclient/gh-pages/master/transforms.svg[transforms,150]
 | release-1.0
+a| http://commoncriteria.github.io/wlanclient/release-1.0/wlanclient-release.html[📄]
 a|[link=https://github.com/commoncriteria/wlanclient/blob/gh-pages/release-1.0/ValidationReport.txt] 
 image::https://raw.githubusercontent.com/commoncriteria/wlanclient/gh-pages/release-1.0/validation.svg[validation]
 a|[link=https://github.com/commoncriteria/wlanclient/blob/gh-pages/release-1.0/SanityChecksOutput.md]
