@@ -4,7 +4,7 @@ link:https://github.com/commoncriteria/.github/blob/master/profile/README.md[Das
 
 [cols="1,1,1,1,1,1,1,1"]
 |===
-8+|*Application*
+8+|*application*
 | master
 a| http://commoncriteria.github.io/application/master/application-release.html[📄]
 a|[link=https://github.com/commoncriteria/application/blob/gh-pages/master/ValidationReport.txt] 
@@ -30,7 +30,7 @@ image::https://raw.githubusercontent.com/commoncriteria/application/gh-pages/rel
 a|image::https://raw.githubusercontent.com/commoncriteria/application/gh-pages/release-1.4/transforms.svg[transforms,150]
 a|
 
-8+|Bluetooth
+8+|*bluetooth*
 | master
 | http://commoncriteria.github.io/bluetooth/master/bluetooth-release.html[📄]
 a|[link=https://github.com/commoncriteria/bluetooth/blob/gh-pages/master/ValidationReport.txt] 
@@ -55,7 +55,7 @@ a|[link=https://github.com/commoncriteria/bluetooth/blob/gh-pages/v1.0/TDValidat
 image::https://raw.githubusercontent.com/commoncriteria/bluetooth/gh-pages/v1.0/tds.svg[TDs]
 a|image::https://raw.githubusercontent.com/commoncriteria/bluetooth/gh-pages/v1.0/transforms.svg[transforms,150]
 a|
-8+|General Purpose Operating Systems
+8+|*operatingsystem*
 | master
 | http://commoncriteria.github.io/operatingsystem/master/operatingsystem-release.html[📄]
 a|[link=https://github.com/commoncriteria/operatingsystem/blob/gh-pages/master/ValidationReport.txt] 
@@ -93,7 +93,7 @@ image::https://raw.githubusercontent.com/commoncriteria/operatingsystem/gh-pages
 a|image::https://raw.githubusercontent.com/commoncriteria/operatingsystem/gh-pages/release-4.2.1/transforms.svg[transforms,150]
 a|
 
-8+|MACsec
+8+| *MACsec*
 | master
 a| http://commoncriteria.github.io/MACsec/master/MACsec-release.html[📄]
 a|[link=https://github.com/commoncriteria/MACsec/blob/gh-pages/master/ValidationReport.txt] 
@@ -120,7 +120,7 @@ a|image::https://raw.githubusercontent.com/commoncriteria/MACsec/gh-pages/newtra
 a| 
 
 
-8+|Mobile Device
+8+| *mobile-device*
 | master
 a| http://commoncriteria.github.io/mobile-device/master/mobile-device-release.html[📄]
 a|[link=https://github.com/commoncriteria/mobile-device/blob/gh-pages/master/ValidationReport.txt] 
@@ -146,7 +146,7 @@ image::https://raw.githubusercontent.com/commoncriteria/mobile-device/gh-pages/r
 a|image::https://raw.githubusercontent.com/commoncriteria/mobile-device/gh-pages/release-3.3/transforms.svg[transforms,150]
 a|
 
-8+|sbc
+8+| *sbc*
 a| https://github.com/commoncriteria/sbc[master]
 a| http://commoncriteria.github.io/sbc/master/sbc-release.html[📄]
 a|[link=https://github.com/commoncriteria/sbc/blob/gh-pages/master/ValidationReport.txt] 
@@ -160,7 +160,7 @@ image::https://raw.githubusercontent.com/commoncriteria/sbc/gh-pages/master/tds.
 a|image::https://raw.githubusercontent.com/commoncriteria/sbc/gh-pages/master/transforms.svg[transforms,150]
 a|
 
-8+|SSH
+8+| *ssh*
 a| https://github.com/commoncriteria/ssh[master]
 a| http://commoncriteria.github.io/ssh/master/ssh-release.html[📄]
 a|[link=https://github.com/commoncriteria/ssh/blob/gh-pages/master/ValidationReport.txt] 
@@ -186,7 +186,7 @@ image::https://raw.githubusercontent.com/commoncriteria/ssh/gh-pages/release-1.0
 a|image::https://raw.githubusercontent.com/commoncriteria/ssh/gh-pages/release-1.0/transforms.svg[transforms,150]
 a|
 
-8+|TLS
+8+| *tls*
 a| https://github.com/commoncriteria/tls[master]
 a| http://commoncriteria.github.io/tls/master/tls-release.html[📄]
 a|[link=https://github.com/commoncriteria/tls/blob/gh-pages/master/ValidationReport.txt] 
@@ -212,7 +212,21 @@ image::https://raw.githubusercontent.com/commoncriteria/tls/gh-pages/release-1.1
 a|image::https://raw.githubusercontent.com/commoncriteria/tls/gh-pages/release-1.1/transforms.svg[transforms,150]
 a|
 
-8+|WLAN Client
+8+| *wlanaccesssystem*
+| https://github.com/commoncriteria/wlanaccesssystem/tree/master[master] 
+a| https://commoncriteria.github.io/wlanaccesssystem/master/wlanaccesssystem-release.html[📄]
+a|[link=https://github.com/commoncriteria/wlanaccesssystem/blob/gh-pages/master/ValidationReport.txt]
+image::https://raw.githubusercontent.com/commoncriteria/wlanaccesssystem/gh-pages/master/validation.svg[Validation]
+a|[link=https://github.com/commoncriteria/wlanaccesssystem/blob/gh-pages/master/SanityChecksOutput.md]
+image::https://raw.githubusercontent.com/commoncriteria/wlanaccesssystem/gh-pages/master/warnings.svg[SanityChecks]
+a|[link=https://github.com/commoncriteria/wlanaccesssystem/blob/gh-pages/master/SpellCheckReport.txt]
+image::https://raw.githubusercontent.com/commoncriteria/wlanaccesssystem/gh-pages/master/spell-badge.svg[SpellCheck]
+a|[link=https://github.com/commoncriteria/wlanaccesssystem/blob/gh-pages/master/TDValidationReport.txt]
+image::https://raw.githubusercontent.com/commoncriteria/wlanaccesssystem/gh-pages/master/tds.svg[TDs]
+a|image::https://raw.githubusercontent.com/commoncriteria/wlanaccesssystem/gh-pages/master/transforms.svg[transforms,150]
+a| 
+
+8+| *wlanclient*
 | master
 a| http://commoncriteria.github.io/wlanclient/master/wlanclient-release.html[📄]
 a|[link=https://github.com/commoncriteria/wlanclient/blob/gh-pages/master/ValidationReport.txt] 
