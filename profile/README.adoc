@@ -31,10 +31,10 @@ a|image::https://raw.githubusercontent.com/commoncriteria/application/gh-pages/r
 a| 
 
 8+|*bluetooth*
-| master
-| http://commoncriteria.github.io/bluetooth/master/bluetooth-release.html[📄]
-a|[link=https://github.com/commoncriteria/bluetooth/blob/gh-pages/master/ValidationReport.txt] 
-image::https://raw.githubusercontent.com/commoncriteria/bluetooth/gh-pages/master/validation.svg[validation]
+| https://github.com/commoncriteria/bluetooth/tree/master[master] 
+a| https://commoncriteria.github.io/bluetooth/master/bluetooth-release.html[📄]
+a|[link=https://github.com/commoncriteria/bluetooth/blob/gh-pages/master/ValidationReport.txt]
+image::https://raw.githubusercontent.com/commoncriteria/bluetooth/gh-pages/master/validation.svg[Validation]
 a|[link=https://github.com/commoncriteria/bluetooth/blob/gh-pages/master/SanityChecksOutput.md]
 image::https://raw.githubusercontent.com/commoncriteria/bluetooth/gh-pages/master/warnings.svg[SanityChecks]
 a|[link=https://github.com/commoncriteria/bluetooth/blob/gh-pages/master/SpellCheckReport.txt]
@@ -42,19 +42,20 @@ image::https://raw.githubusercontent.com/commoncriteria/bluetooth/gh-pages/maste
 a|[link=https://github.com/commoncriteria/bluetooth/blob/gh-pages/master/TDValidationReport.txt]
 image::https://raw.githubusercontent.com/commoncriteria/bluetooth/gh-pages/master/tds.svg[TDs]
 a|image::https://raw.githubusercontent.com/commoncriteria/bluetooth/gh-pages/master/transforms.svg[transforms,150]
-a|
-| v1.0
-| http://commoncriteria.github.io/bluetooth/v1.0/bluetooth-release.html[📄]
-a|[link=https://github.com/commoncriteria/bluetooth/blob/gh-pages/v1.0/ValidationReport.txt] 
-image::https://raw.githubusercontent.com/commoncriteria/bluetooth/gh-pages/v1.0/validation.svg[validation]
-a|[link=https://github.com/commoncriteria/bluetooth/blob/gh-pages/v1.0/SanityChecksOutput.md]
-image::https://raw.githubusercontent.com/commoncriteria/bluetooth/gh-pages/v1.0/warnings.svg[SanityChecks]
-a|[link=https://github.com/commoncriteria/bluetooth/blob/gh-pages/v1.0/SpellCheckReport.txt]
-image::https://raw.githubusercontent.com/commoncriteria/bluetooth/gh-pages/v1.0/spell-badge.svg[SpellCheck]
-a|[link=https://github.com/commoncriteria/bluetooth/blob/gh-pages/v1.0/TDValidationReport.txt]
-image::https://raw.githubusercontent.com/commoncriteria/bluetooth/gh-pages/v1.0/tds.svg[TDs]
-a|image::https://raw.githubusercontent.com/commoncriteria/bluetooth/gh-pages/v1.0/transforms.svg[transforms,150]
-a|
+a| 
+| https://github.com/commoncriteria/application/tree/release-1.4[release-1.4] 
+a| https://commoncriteria.github.io/application/release-1.4/application-release.html[📄]
+a|[link=https://github.com/commoncriteria/application/blob/gh-pages/release-1.4/ValidationReport.txt]
+image::https://raw.githubusercontent.com/commoncriteria/application/gh-pages/release-1.4/validation.svg[Validation]
+a|[link=https://github.com/commoncriteria/application/blob/gh-pages/release-1.4/SanityChecksOutput.md]
+image::https://raw.githubusercontent.com/commoncriteria/application/gh-pages/release-1.4/warnings.svg[SanityChecks]
+a|[link=https://github.com/commoncriteria/application/blob/gh-pages/release-1.4/SpellCheckReport.txt]
+image::https://raw.githubusercontent.com/commoncriteria/application/gh-pages/release-1.4/spell-badge.svg[SpellCheck]
+a|[link=https://github.com/commoncriteria/application/blob/gh-pages/release-1.4/TDValidationReport.txt]
+image::https://raw.githubusercontent.com/commoncriteria/application/gh-pages/release-1.4/tds.svg[TDs]
+a|image::https://raw.githubusercontent.com/commoncriteria/application/gh-pages/release-1.4/transforms.svg[transforms,150]
+a| 
+
 8+|*operatingsystem*
 | master
 | http://commoncriteria.github.io/operatingsystem/master/operatingsystem-release.html[📄]
