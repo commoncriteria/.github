@@ -170,10 +170,10 @@ image::https://raw.githubusercontent.com/commoncriteria/operatingsystem/gh-pages
 
 
 8+| *sbc*
-a| https://github.com/commoncriteria/sbc[master]
-a| http://commoncriteria.github.io/sbc/master/sbc-release.html[📄]
-a|[link=https://github.com/commoncriteria/sbc/blob/gh-pages/master/ValidationReport.txt] 
-image::https://raw.githubusercontent.com/commoncriteria/sbc/gh-pages/master/validation.svg[validation]
+| https://github.com/commoncriteria/sbc/tree/master[master] 
+a| https://commoncriteria.github.io/sbc/master/sbc-release.html[📄]
+a|[link=https://github.com/commoncriteria/sbc/blob/gh-pages/master/ValidationReport.txt]
+image::https://raw.githubusercontent.com/commoncriteria/sbc/gh-pages/master/validation.svg[Validation]
 a|[link=https://github.com/commoncriteria/sbc/blob/gh-pages/master/SanityChecksOutput.md]
 image::https://raw.githubusercontent.com/commoncriteria/sbc/gh-pages/master/warnings.svg[SanityChecks]
 a|[link=https://github.com/commoncriteria/sbc/blob/gh-pages/master/SpellCheckReport.txt]
@@ -181,13 +181,16 @@ image::https://raw.githubusercontent.com/commoncriteria/sbc/gh-pages/master/spel
 a|[link=https://github.com/commoncriteria/sbc/blob/gh-pages/master/TDValidationReport.txt]
 image::https://raw.githubusercontent.com/commoncriteria/sbc/gh-pages/master/tds.svg[TDs]
 a|image::https://raw.githubusercontent.com/commoncriteria/sbc/gh-pages/master/transforms.svg[transforms,150]
-a|
+a| [link=https://github.com/commoncriteria/sbc/blob/gh-pages/master/HTMLs.adoc]
+image::https://raw.githubusercontent.com/commoncriteria/sbc/gh-pages/master/html_count.svg[HTML Count]
+[link=https://github.com/commoncriteria/sbc/blob/gh-pages/master/PDFs.adoc]
+image::https://raw.githubusercontent.com/commoncriteria/sbc/gh-pages/master/pdf_count.svg[PDF Count]
 
 8+| *ssh*
-a| https://github.com/commoncriteria/ssh[master]
-a| http://commoncriteria.github.io/ssh/master/ssh-release.html[📄]
-a|[link=https://github.com/commoncriteria/ssh/blob/gh-pages/master/ValidationReport.txt] 
-image::https://raw.githubusercontent.com/commoncriteria/ssh/gh-pages/master/validation.svg[validation]
+| https://github.com/commoncriteria/ssh/tree/master[master] 
+a| https://commoncriteria.github.io/ssh/master/ssh-release.html[📄]
+a|[link=https://github.com/commoncriteria/ssh/blob/gh-pages/master/ValidationReport.txt]
+image::https://raw.githubusercontent.com/commoncriteria/ssh/gh-pages/master/validation.svg[Validation]
 a|[link=https://github.com/commoncriteria/ssh/blob/gh-pages/master/SanityChecksOutput.md]
 image::https://raw.githubusercontent.com/commoncriteria/ssh/gh-pages/master/warnings.svg[SanityChecks]
 a|[link=https://github.com/commoncriteria/ssh/blob/gh-pages/master/SpellCheckReport.txt]
@@ -195,11 +198,14 @@ image::https://raw.githubusercontent.com/commoncriteria/ssh/gh-pages/master/spel
 a|[link=https://github.com/commoncriteria/ssh/blob/gh-pages/master/TDValidationReport.txt]
 image::https://raw.githubusercontent.com/commoncriteria/ssh/gh-pages/master/tds.svg[TDs]
 a|image::https://raw.githubusercontent.com/commoncriteria/ssh/gh-pages/master/transforms.svg[transforms,150]
-a|
-a| https://github.com/commoncriteria/ssh/tree/release-1.0[release-1.0]
-a| http://commoncriteria.github.io/release-1-0/ssh/ssh-release.html[📄]
-a|[link=https://github.com/commoncriteria/ssh/blob/gh-pages/release-1.0/ValidationReport.txt] 
-image::https://raw.githubusercontent.com/commoncriteria/ssh/gh-pages/release-1.0/validation.svg[validation]
+a| [link=https://github.com/commoncriteria/ssh/blob/gh-pages/master/HTMLs.adoc]
+image::https://raw.githubusercontent.com/commoncriteria/ssh/gh-pages/master/html_count.svg[HTML Count]
+[link=https://github.com/commoncriteria/ssh/blob/gh-pages/master/PDFs.adoc]
+image::https://raw.githubusercontent.com/commoncriteria/ssh/gh-pages/master/pdf_count.svg[PDF Count]
+| https://github.com/commoncriteria/ssh/tree/release-1.0[release-1.0] 
+a| https://commoncriteria.github.io/ssh/release-1.0/ssh-release.html[📄]
+a|[link=https://github.com/commoncriteria/ssh/blob/gh-pages/release-1.0/ValidationReport.txt]
+image::https://raw.githubusercontent.com/commoncriteria/ssh/gh-pages/release-1.0/validation.svg[Validation]
 a|[link=https://github.com/commoncriteria/ssh/blob/gh-pages/release-1.0/SanityChecksOutput.md]
 image::https://raw.githubusercontent.com/commoncriteria/ssh/gh-pages/release-1.0/warnings.svg[SanityChecks]
 a|[link=https://github.com/commoncriteria/ssh/blob/gh-pages/release-1.0/SpellCheckReport.txt]
@@ -207,7 +213,10 @@ image::https://raw.githubusercontent.com/commoncriteria/ssh/gh-pages/release-1.0
 a|[link=https://github.com/commoncriteria/ssh/blob/gh-pages/release-1.0/TDValidationReport.txt]
 image::https://raw.githubusercontent.com/commoncriteria/ssh/gh-pages/release-1.0/tds.svg[TDs]
 a|image::https://raw.githubusercontent.com/commoncriteria/ssh/gh-pages/release-1.0/transforms.svg[transforms,150]
-a|
+a| [link=https://github.com/commoncriteria/ssh/blob/gh-pages/release-1.0/HTMLs.adoc]
+image::https://raw.githubusercontent.com/commoncriteria/ssh/gh-pages/release-1.0/html_count.svg[HTML Count]
+[link=https://github.com/commoncriteria/ssh/blob/gh-pages/release-1.0/PDFs.adoc]
+image::https://raw.githubusercontent.com/commoncriteria/ssh/gh-pages/release-1.0/pdf_count.svg[PDF Count]
 
 8+| *tls*
 | https://github.com/commoncriteria/tls/tree/master[master] 
@@ -268,7 +277,10 @@ image::https://raw.githubusercontent.com/commoncriteria/vpnclient/gh-pages/maste
 a|[link=https://github.com/commoncriteria/vpnclient/blob/gh-pages/master/TDValidationReport.txt]
 image::https://raw.githubusercontent.com/commoncriteria/vpnclient/gh-pages/master/tds.svg[TDs]
 a|image::https://raw.githubusercontent.com/commoncriteria/vpnclient/gh-pages/master/transforms.svg[transforms,150]
-a| 
+a| [link=https://github.com/commoncriteria/vpnclient/blob/gh-pages/master/HTMLs.adoc]
+image::https://raw.githubusercontent.com/commoncriteria/vpnclient/gh-pages/master/html_count.svg[HTML Count]
+[link=https://github.com/commoncriteria/vpnclient/blob/gh-pages/master/PDFs.adoc]
+image::https://raw.githubusercontent.com/commoncriteria/vpnclient/gh-pages/master/pdf_count.svg[PDF Count]
 | https://github.com/commoncriteria/vpnclient/tree/v2.4[v2.4] 
 a| https://commoncriteria.github.io/vpnclient/v2.4/vpnclient-release.html[📄]
 a|[link=https://github.com/commoncriteria/vpnclient/blob/gh-pages/v2.4/ValidationReport.txt]
@@ -280,8 +292,10 @@ image::https://raw.githubusercontent.com/commoncriteria/vpnclient/gh-pages/v2.4/
 a|[link=https://github.com/commoncriteria/vpnclient/blob/gh-pages/v2.4/TDValidationReport.txt]
 image::https://raw.githubusercontent.com/commoncriteria/vpnclient/gh-pages/v2.4/tds.svg[TDs]
 a|image::https://raw.githubusercontent.com/commoncriteria/vpnclient/gh-pages/v2.4/transforms.svg[transforms,150]
-a| 
-
+a| [link=https://github.com/commoncriteria/vpnclient/blob/gh-pages/v2.4/HTMLs.adoc]
+image::https://raw.githubusercontent.com/commoncriteria/vpnclient/gh-pages/v2.4/html_count.svg[HTML Count]
+[link=https://github.com/commoncriteria/vpnclient/blob/gh-pages/v2.4/PDFs.adoc]
+image::https://raw.githubusercontent.com/commoncriteria/vpnclient/gh-pages/v2.4/pdf_count.svg[PDF Count]
 
 8+| *wlanaccesssystem*
 | https://github.com/commoncriteria/wlanaccesssystem/tree/master[master] 
@@ -295,7 +309,10 @@ image::https://raw.githubusercontent.com/commoncriteria/wlanaccesssystem/gh-page
 a|[link=https://github.com/commoncriteria/wlanaccesssystem/blob/gh-pages/master/TDValidationReport.txt]
 image::https://raw.githubusercontent.com/commoncriteria/wlanaccesssystem/gh-pages/master/tds.svg[TDs]
 a|image::https://raw.githubusercontent.com/commoncriteria/wlanaccesssystem/gh-pages/master/transforms.svg[transforms,150]
-a| 
+a| [link=https://github.com/commoncriteria/wlanaccesssystem/blob/gh-pages/master/HTMLs.adoc]
+image::https://raw.githubusercontent.com/commoncriteria/wlanaccesssystem/gh-pages/master/html_count.svg[HTML Count]
+[link=https://github.com/commoncriteria/wlanaccesssystem/blob/gh-pages/master/PDFs.adoc]
+image::https://raw.githubusercontent.com/commoncriteria/wlanaccesssystem/gh-pages/master/pdf_count.svg[PDF Count]
 | https://github.com/commoncriteria/wlanaccesssystem/tree/release-1.0[release-1.0] 
 a| https://commoncriteria.github.io/wlanaccesssystem/release-1.0/wlanaccesssystem-release.html[📄]
 a|[link=https://github.com/commoncriteria/wlanaccesssystem/blob/gh-pages/release-1.0/ValidationReport.txt]
@@ -307,7 +324,10 @@ image::https://raw.githubusercontent.com/commoncriteria/wlanaccesssystem/gh-page
 a|[link=https://github.com/commoncriteria/wlanaccesssystem/blob/gh-pages/release-1.0/TDValidationReport.txt]
 image::https://raw.githubusercontent.com/commoncriteria/wlanaccesssystem/gh-pages/release-1.0/tds.svg[TDs]
 a|image::https://raw.githubusercontent.com/commoncriteria/wlanaccesssystem/gh-pages/release-1.0/transforms.svg[transforms,150]
-a| 
+a| [link=https://github.com/commoncriteria/wlanaccesssystem/blob/gh-pages/release-1.0/HTMLs.adoc]
+image::https://raw.githubusercontent.com/commoncriteria/wlanaccesssystem/gh-pages/release-1.0/html_count.svg[HTML Count]
+[link=https://github.com/commoncriteria/wlanaccesssystem/blob/gh-pages/release-1.0/PDFs.adoc]
+image::https://raw.githubusercontent.com/commoncriteria/wlanaccesssystem/gh-pages/release-1.0/pdf_count.svg[PDF Count]
 
 8+| *wlanclient*
 | https://github.com/commoncriteria/wlanclient/tree/master[master] 
@@ -321,7 +341,10 @@ image::https://raw.githubusercontent.com/commoncriteria/wlanclient/gh-pages/mast
 a|[link=https://github.com/commoncriteria/wlanclient/blob/gh-pages/master/TDValidationReport.txt]
 image::https://raw.githubusercontent.com/commoncriteria/wlanclient/gh-pages/master/tds.svg[TDs]
 a|image::https://raw.githubusercontent.com/commoncriteria/wlanclient/gh-pages/master/transforms.svg[transforms,150]
-a| 
+a| [link=https://github.com/commoncriteria/wlanclient/blob/gh-pages/master/HTMLs.adoc]
+image::https://raw.githubusercontent.com/commoncriteria/wlanclient/gh-pages/master/html_count.svg[HTML Count]
+[link=https://github.com/commoncriteria/wlanclient/blob/gh-pages/master/PDFs.adoc]
+image::https://raw.githubusercontent.com/commoncriteria/wlanclient/gh-pages/master/pdf_count.svg[PDF Count]
 | https://github.com/commoncriteria/wlanclient/tree/release-1.0[release-1.0] 
 a| https://commoncriteria.github.io/wlanclient/release-1.0/wlanclient-release.html[📄]
 a|[link=https://github.com/commoncriteria/wlanclient/blob/gh-pages/release-1.0/ValidationReport.txt]
@@ -333,5 +356,8 @@ image::https://raw.githubusercontent.com/commoncriteria/wlanclient/gh-pages/rele
 a|[link=https://github.com/commoncriteria/wlanclient/blob/gh-pages/release-1.0/TDValidationReport.txt]
 image::https://raw.githubusercontent.com/commoncriteria/wlanclient/gh-pages/release-1.0/tds.svg[TDs]
 a|image::https://raw.githubusercontent.com/commoncriteria/wlanclient/gh-pages/release-1.0/transforms.svg[transforms,150]
-a| 
+a| [link=https://github.com/commoncriteria/wlanclient/blob/gh-pages/release-1.0/HTMLs.adoc]
+image::https://raw.githubusercontent.com/commoncriteria/wlanclient/gh-pages/release-1.0/html_count.svg[HTML Count]
+[link=https://github.com/commoncriteria/wlanclient/blob/gh-pages/release-1.0/PDFs.adoc]
+image::https://raw.githubusercontent.com/commoncriteria/wlanclient/gh-pages/release-1.0/pdf_count.svg[PDF Count]
 |===
