@@ -390,3 +390,5 @@ image::https://raw.githubusercontent.com/commoncriteria/wlanclient/gh-pages/rele
 [link=https://github.com/commoncriteria/wlanclient/blob/gh-pages/release-1.0/PDFs.adoc]
 image::https://raw.githubusercontent.com/commoncriteria/wlanclient/gh-pages/release-1.0/pdf_count.svg[PDF Count]
 |===
+
+https://github.com/commoncriteria/pp-template/wiki
