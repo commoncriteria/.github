@@ -1,6 +1,5 @@
 = Dashboard v2.0
 
-link:https://github.com/commoncriteria/.github/blob/master/profile/README.md[Dashboard v1.0]
 
 [cols="1,1,1,1,1,1,1,1"]
 |===
@@ -391,4 +390,6 @@ image::https://raw.githubusercontent.com/commoncriteria/wlanclient/gh-pages/rele
 image::https://raw.githubusercontent.com/commoncriteria/wlanclient/gh-pages/release-1.0/pdf_count.svg[PDF Count]
 |===
 
-https://github.com/commoncriteria/pp-template/wiki
+https://github.com/commoncriteria/pp-template/wiki[The NIAP PP Wiki]
+
+link:https://github.com/commoncriteria/.github/blob/master/profile/README.md[Dashboard v1.0]
