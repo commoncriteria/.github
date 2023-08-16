@@ -442,7 +442,7 @@ image::https://raw.githubusercontent.com/commoncriteria/vpngw/gh-pages/master/ht
 [link=https://github.com/commoncriteria/vpngw/blob/gh-pages/master/PDFs.adoc]
 image::https://raw.githubusercontent.com/commoncriteria/vpngw/gh-pages/master/pdf_count.svg[PDF Count]
 | https://github.com/commoncriteria/vpngw/tree/release-1.3[v1.3] 
-a| https://commoncriteria.github.io/vpngw/v2.4/vpngw-release.html[📄]
+a| https://commoncriteria.github.io/vpngw/release-1.3/vpngw-release-linkable.html[📄]
 a|[link=https://github.com/commoncriteria/vpngw/blob/gh-pages/release-1.3/ValidationReport.txt]
 image::https://raw.githubusercontent.com/commoncriteria/vpngw/gh-pages/release-1.3/validation.svg[Validation]
 a|[link=https://github.com/commoncriteria/vpngw/blob/gh-pages/release-1.3/SanityChecksOutput.md]
