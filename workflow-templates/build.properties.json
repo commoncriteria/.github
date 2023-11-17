@@ -1,5 +1,5 @@
 {
-    "name": "Common Criteria PP Build Workflow",
+    "name": "Common Criteria PP Quick Build Workflow",
     "description": "Common Criterial Protection Profile CI workflow template.",
     "iconName": "build-icon"
 }
