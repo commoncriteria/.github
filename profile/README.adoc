@@ -71,6 +71,23 @@ image::https://raw.githubusercontent.com/commoncriteria/bluetooth/gh-pages/v1.0/
 [link=https://github.com/commoncriteria/bluetooth/blob/gh-pages/v1.0/PDFs.adoc]
 image::https://raw.githubusercontent.com/commoncriteria/bluetooth/gh-pages/v1.0/pdf_count.svg[PDF Count]
 
+8+| *emailclient*
+| https://github.com/commoncriteria/emailclient/tree/master[master] 
+a| https://commoncriteria.github.io/emailclient/master/emailclient-release.html[📄]
+a|[link=https://github.com/commoncriteria/emailclient/blob/gh-pages/master/ValidationReport.txt]
+image::https://raw.githubusercontent.com/commoncriteria/emailclient/gh-pages/master/validation.svg[Validation]
+a|[link=https://github.com/commoncriteria/emailclient/blob/gh-pages/master/SanityChecksOutput.md]
+image::https://raw.githubusercontent.com/commoncriteria/emailclient/gh-pages/master/warnings.svg[SanityChecks]
+a|[link=https://github.com/commoncriteria/emailclient/blob/gh-pages/master/SpellCheckReport.txt]
+image::https://raw.githubusercontent.com/commoncriteria/emailclient/gh-pages/master/spell-badge.svg[SpellCheck]
+a|[link=https://github.com/commoncriteria/emailclient/blob/gh-pages/master/TDValidationReport.txt]
+image::https://raw.githubusercontent.com/commoncriteria/emailclient/gh-pages/master/tds.svg[TDs]
+a|image::https://raw.githubusercontent.com/commoncriteria/emailclient/gh-pages/master/transforms.svg[transforms,150]
+a| [link=https://github.com/commoncriteria/emailclient/blob/gh-pages/master/HTMLs.adoc]
+image::https://raw.githubusercontent.com/commoncriteria/emailclient/gh-pages/master/html_count.svg[HTML Count]
+[link=https://github.com/commoncriteria/emailclient/blob/gh-pages/master/PDFs.adoc]
+image::https://raw.githubusercontent.com/commoncriteria/emailclient/gh-pages/master/pdf_count.svg[PDF Count]
+
 8+| *encrypting-retransmission-device*
 | https://github.com/commoncriteria/encrypting-retransmission-device/tree/master[master] 
 a| https://commoncriteria.github.io/encrypting-retransmission-device/master/encrypting-retransmission-device-release.html[📄]
