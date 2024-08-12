@@ -674,7 +674,7 @@ image::https://raw.githubusercontent.com/commoncriteria/wlanclient/gh-pages/rele
 [link=https://github.com/commoncriteria/wlanclient/blob/gh-pages/release-1.0/PDFs.adoc]
 image::https://raw.githubusercontent.com/commoncriteria/wlanclient/gh-pages/release-1.0/pdf_count.svg[PDF Count]
 
-8+|X.509
+8+| *X.509*
 | https://github.com/commoncriteria/x509/tree/master[master] 
 a| https://commoncriteria.github.io/x509/master/x509-release.html[📄]
 a|[link=https://github.com/commoncriteria/x509/blob/gh-pages/master/ValidationReport.txt]
