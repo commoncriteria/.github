@@ -137,6 +137,40 @@ image::https://raw.githubusercontent.com/commoncriteria/enterprise-session-contr
 [link=https://github.com/commoncriteria/enterprise-session-controller/blob/gh-pages/main/PDFs.adoc]
 image::https://raw.githubusercontent.com/commoncriteria/enterprise-session-controller/gh-pages/main/pdf_count.svg[PDF Count]
 
+8+| *FDEAA*
+| https://github.com/commoncriteria/FDEAA/tree/master[master] 
+a| https://commoncriteria.github.io/FDEAA/master/FDEAA-release.html[📄]
+a|[link=https://github.com/commoncriteria/FDEAA/blob/gh-pages/master/ValidationReport.txt]
+image::https://raw.githubusercontent.com/commoncriteria/FDEAA/gh-pages/master/validation.svg[Validation]
+a|[link=https://github.com/commoncriteria/FDEAA/blob/gh-pages/master/SanityChecksOutput.md]
+image::https://raw.githubusercontent.com/commoncriteria/FDEAA/gh-pages/master/warnings.svg[SanityChecks]
+a|[link=https://github.com/commoncriteria/FDEAA/blob/gh-pages/master/SpellCheckReport.txt]
+image::https://raw.githubusercontent.com/commoncriteria/FDEAA/gh-pages/master/spell-badge.svg[SpellCheck]
+a|[link=https://github.com/commoncriteria/FDEAA/blob/gh-pages/master/TDValidationReport.txt]
+image::https://raw.githubusercontent.com/commoncriteria/FDEAA/gh-pages/master/tds.svg[TDs]
+a|image::https://raw.githubusercontent.com/commoncriteria/FDEAA/gh-pages/master/transforms.svg[transforms,150]
+a| [link=https://github.com/commoncriteria/FDEAA/blob/gh-pages/master/HTMLs.adoc]
+image::https://raw.githubusercontent.com/commoncriteria/FDEAA/gh-pages/master/html_count.svg[HTML Count]
+[link=https://github.com/commoncriteria/FDEAA/blob/gh-pages/master/PDFs.adoc]
+image::https://raw.githubusercontent.com/commoncriteria/FDEAA/gh-pages/master/pdf_count.svg[PDF Count]
+
+8+| *FDEEE*
+| https://github.com/commoncriteria/FDEEE/tree/master[master] 
+a| https://commoncriteria.github.io/FDEEE/master/FDEEE-release.html[📄]
+a|[link=https://github.com/commoncriteria/FDEEE/blob/gh-pages/master/ValidationReport.txt]
+image::https://raw.githubusercontent.com/commoncriteria/FDEEE/gh-pages/master/validation.svg[Validation]
+a|[link=https://github.com/commoncriteria/FDEEE/blob/gh-pages/master/SanityChecksOutput.md]
+image::https://raw.githubusercontent.com/commoncriteria/FDEEE/gh-pages/master/warnings.svg[SanityChecks]
+a|[link=https://github.com/commoncriteria/FDEEE/blob/gh-pages/master/SpellCheckReport.txt]
+image::https://raw.githubusercontent.com/commoncriteria/FDEEE/gh-pages/master/spell-badge.svg[SpellCheck]
+a|[link=https://github.com/commoncriteria/FDEEE/blob/gh-pages/master/TDValidationReport.txt]
+image::https://raw.githubusercontent.com/commoncriteria/FDEEE/gh-pages/master/tds.svg[TDs]
+a|image::https://raw.githubusercontent.com/commoncriteria/FDEEE/gh-pages/master/transforms.svg[transforms,150]
+a| [link=https://github.com/commoncriteria/FDEEE/blob/gh-pages/master/HTMLs.adoc]
+image::https://raw.githubusercontent.com/commoncriteria/FDEEE/gh-pages/master/html_count.svg[HTML Count]
+[link=https://github.com/commoncriteria/FDEEE/blob/gh-pages/master/PDFs.adoc]
+image::https://raw.githubusercontent.com/commoncriteria/FDEEE/gh-pages/master/pdf_count.svg[PDF Count]
+
 8+| *fileencryption*
 | https://github.com/commoncriteria/fileencryption/tree/master[master] 
 a| https://commoncriteria.github.io/fileencryption/master/fileencryption-release.html[📄]
@@ -728,6 +762,24 @@ a| [link=https://github.com/commoncriteria/vpngw/blob/gh-pages/release-1.3/HTMLs
 image::https://raw.githubusercontent.com/commoncriteria/vpngw/gh-pages/release-1.3/html_count.svg[HTML Count]
 [link=https://github.com/commoncriteria/vpngw/blob/gh-pages/release-1.3/PDFs.adoc]
 image::https://raw.githubusercontent.com/commoncriteria/vpngw/gh-pages/release-1.3/pdf_count.svg[PDF Count]
+
+8+|*vvoip* 
+| https://github.com/commoncriteria/vvoip/tree/master[master] 
+a| https://commoncriteria.github.io/vvoip/master/vvoip-release.html[📄]
+a|[link=https://github.com/commoncriteria/vvoip/blob/gh-pages/master/ValidationReport.txt]
+image::https://raw.githubusercontent.com/commoncriteria/vvoip/gh-pages/master/validation.svg[Validation]
+a|[link=https://github.com/commoncriteria/vvoip/blob/gh-pages/master/SanityChecksOutput.md]
+image::https://raw.githubusercontent.com/commoncriteria/vvoip/gh-pages/master/warnings.svg[SanityChecks]
+a|[link=https://github.com/commoncriteria/vvoip/blob/gh-pages/master/SpellCheckReport.txt]
+image::https://raw.githubusercontent.com/commoncriteria/vvoip/gh-pages/master/spell-badge.svg[SpellCheck]
+a|[link=https://github.com/commoncriteria/vvoip/blob/gh-pages/master/TDValidationReport.txt]
+image::https://raw.githubusercontent.com/commoncriteria/vvoip/gh-pages/master/tds.svg[TDs]
+a|image::https://raw.githubusercontent.com/commoncriteria/vvoip/gh-pages/master/transforms.svg[transforms,150]
+a| [link=https://github.com/commoncriteria/vvoip/blob/gh-pages/master/HTMLs.adoc]
+image::https://raw.githubusercontent.com/commoncriteria/vvoip/gh-pages/master/html_count.svg[HTML Count]
+[link=https://github.com/commoncriteria/vvoip/blob/gh-pages/master/PDFs.adoc]
+image::https://raw.githubusercontent.com/commoncriteria/vvoip/gh-pages/master/pdf_count.svg[PDF Count]
+
 
 8+|*webbrowser*
 | https://github.com/commoncriteria/webbrowser/tree/master[master] 
