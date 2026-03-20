@@ -186,6 +186,22 @@ image::https://raw.githubusercontent.com/commoncriteria/enterprise-session-contr
 [link=https://github.com/commoncriteria/enterprise-session-controller/blob/gh-pages/main/PDFs.adoc]
 image::https://raw.githubusercontent.com/commoncriteria/enterprise-session-controller/gh-pages/main/pdf_count.svg[PDF Count]
 
+| https://github.com/commoncriteria/enterprise-session-controller/tree/release-2.0[release-2.0] 
+a| https://commoncriteria.github.io/enterprise-session-controller/release-2.0/enterprise-session-controller-release.html[📄]
+a|[link=https://github.com/commoncriteria/enterprise-session-controller/blob/gh-pages/release-2.0/ValidationReport.txt]
+image::https://raw.githubusercontent.com/commoncriteria/enterprise-session-controller/gh-pages/release-2.0/validation.svg[Validation]
+a|[link=https://github.com/commoncriteria/enterprise-session-controller/blob/gh-pages/release-2.0/SanityChecksOutput.md]
+image::https://raw.githubusercontent.com/commoncriteria/enterprise-session-controller/gh-pages/release-2.0/warnings.svg[SanityChecks]
+a|[link=https://github.com/commoncriteria/enterprise-session-controller/blob/gh-pages/release-2.0/SpellCheckReport.txt]
+image::https://raw.githubusercontent.com/commoncriteria/enterprise-session-controller/gh-pages/release-2.0/spell-badge.svg[SpellCheck]
+a|[link=https://github.com/commoncriteria/enterprise-session-controller/blob/gh-pages/release-2.0/TDValidationReport.txt]
+image::https://raw.githubusercontent.com/commoncriteria/enterprise-session-controller/gh-pages/release-2.0/tds.svg[TDs]
+a|image::https://raw.githubusercontent.com/commoncriteria/enterprise-session-controller/gh-pages/release-2.0/transforms.svg[transforms,150]
+a| [link=https://github.com/commoncriteria/enterprise-session-controller/blob/gh-pages/release-2.0/HTMLs.adoc]
+image::https://raw.githubusercontent.com/commoncriteria/enterprise-session-controller/gh-pages/release-2.0/html_count.svg[HTML Count]
+[link=https://github.com/commoncriteria/enterprise-session-controller/blob/gh-pages/release-2.0/PDFs.adoc]
+image::https://raw.githubusercontent.com/commoncriteria/enterprise-session-controller/gh-pages/release-2.0/pdf_count.svg[PDF Count]
+
 8+| *esm-edr*
 | https://github.com/commoncriteria/esm-edr/tree/master[master] 
 a| https://commoncriteria.github.io/esm-edr/master/esm-edr-release.html[📄]
