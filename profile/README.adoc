@@ -1300,3 +1300,9 @@ image::https://raw.githubusercontent.com/commoncriteria/X509/gh-pages/release-1.
 https://github.com/commoncriteria/pp-template/wiki[The NIAP PP Wiki]
 
 link:https://github.com/commoncriteria/.github/blob/master/profile/README.md[Dashboard v1.0]
+
+https://commoncriteria.github.io/xml-builder/[PP XML Builder]
+
+https://commoncriteria.github.io/st-generator/[ST Generator]
+
+https://commoncriteria.github.io/sfr-catalog/[SFR Catalog]
