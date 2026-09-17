@@ -697,7 +697,7 @@ image::https://raw.githubusercontent.com/commoncriteria/psd-ao/gh-pages/main/htm
 image::https://raw.githubusercontent.com/commoncriteria/psd-ao/gh-pages/main/pdf_count.svg[PDF Count]
 
 
-8+| *psd-km*
+8+| *PSD-KM*
 | https://github.com/commoncriteria/psd-km/tree/main[main] 
 a| https://commoncriteria.github.io/psd-km/main/psd-km-release.html[📄]
 a|[link=https://github.com/commoncriteria/psd-km/blob/gh-pages/main/ValidationReport.txt]
@@ -715,7 +715,7 @@ image::https://raw.githubusercontent.com/commoncriteria/psd-km/gh-pages/main/htm
 image::https://raw.githubusercontent.com/commoncriteria/psd-km/gh-pages/main/pdf_count.svg[PDF Count]
 
 
-8+| *psd-ua*
+8+| *PSD-UA*
 | https://github.com/commoncriteria/psd-ua/tree/main[main] 
 a| https://commoncriteria.github.io/psd-ua/main/psd-ua-release.html[📄]
 a|[link=https://github.com/commoncriteria/psd-ua/blob/gh-pages/main/ValidationReport.txt]
@@ -733,7 +733,7 @@ image::https://raw.githubusercontent.com/commoncriteria/psd-ua/gh-pages/main/htm
 image::https://raw.githubusercontent.com/commoncriteria/psd-ua/gh-pages/main/pdf_count.svg[PDF Count]
 
 
-8+| *psd-vi*
+8+| *PSD-VI*
 | https://github.com/commoncriteria/psd-vi/tree/main[main] 
 a| https://commoncriteria.github.io/psd-vi/main/psd-vi-release.html[📄]
 a|[link=https://github.com/commoncriteria/psd-vi/blob/gh-pages/main/ValidationReport.txt]
